@@ -1,3 +1,6 @@
 [submodule "DMH_Buffered_Mult_PCB/Libraries/SynthStuff"]
 	path = DMH_Buffered_Mult_PCB/Libraries/SynthStuff
 	url = https://github.com/DeMarco/KiCad-Lib-SynthStuff.git
+[submodule "DMH_Buffered_Mult_PANEL/Libraries/SynthStuff"]
+	path = DMH_Buffered_Mult_PANEL/Libraries/SynthStuff
+	url = https://github.com/DeMarco/KiCad-Lib-SynthStuff.git
